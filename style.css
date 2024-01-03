@@ -36,3 +36,15 @@ opacity: 0.5;
     background-color: #fbe50a !important;
     color: #000 !important;
 }
+.dish-image{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.dish-card > div > div>div > .card-title{
+    font-size: 14px;
+}
+.dish-card > div > div>div > .p{
+    font-size: 12px;
+}
