@@ -42,9 +42,14 @@ opacity: 0.5;
     object-fit: cover;
     border-radius: 10px;
 }
-.dish-card > div > div>div > .card-title{
+.dish-card > div > div>div > div > .card-title{
     font-size: 14px;
 }
-.dish-card > div > div>div > .p{
+.dish-card > div > div>div > div > .p{
     font-size: 12px;
+}
+
+.dish-card > div > div> a{
+    font-size: 12px;
+    height: fit-content;
 }
